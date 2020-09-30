@@ -5,3 +5,4 @@
 平均分數   https://colab.research.google.com/drive/1TRnUlYeQxhSE4CumoMgdNywICe3GfI3u#scrollTo=A_bJ1GfUsC1T
 
 簡易計算機   https://colab.research.google.com/drive/1kF4ClQqFxYQOpzkX2hdv-UcRBpZrf4N3
+            https://colab.research.google.com/drive/19lI33Tf-HaBdsuAjxy8jtJVreoxXfBOd
